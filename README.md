@@ -88,7 +88,7 @@ During initialization, you will be asked for an **API key**.
 
 ### Getting an API Key
 
-1. Visit **GEOMI**
+1. Visit the [GEOMI](https://geomi.dev/)
 2. Create an account (if you don’t already have one)
 3. Go to **Overview**
 4. Click **Create API Keys**
@@ -265,4 +265,4 @@ This README provides a simple walkthrough for installing the Shelby CLI on WSL a
 
 If you have questions, feel free to reach out.
 
-Made with ❤️ by **Mystiquemide**
+**LEGACY**
