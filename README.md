@@ -265,4 +265,4 @@ This README provides a simple walkthrough for installing the Shelby CLI on WSL a
 
 If you have questions, feel free to reach out.
 
-**LEGACY**
+[LEGACY](https://x.com/Jbrilzubairu)
