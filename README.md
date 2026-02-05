@@ -174,7 +174,7 @@ echo Hello > test.txt
 Upload the file to Shelby:
 
 ```bash
-shelby upload ~/test.txt files/test.txt -e tomorrow --assume-yes
+shelby upload ./test.txt files/test.txt -e tomorrow --assume-yes
 ```
 
 ### About Expiration
